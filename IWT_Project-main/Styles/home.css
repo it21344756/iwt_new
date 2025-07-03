@@ -1,0 +1,96 @@
+
+
+body{
+		background-image:url(https://images.unsplash.com/photo-1633681926022-84c23e8cb2d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGJlYXV0eSUyMHNhbG9ufGVufDB8fDB8fA%3D%3D&w=1000&q=80);
+		background-size: cover;
+		background-attachment: fixed;
+	}
+
+
+p {
+  font-size: 700%;
+}
+#button{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	-ms-transform: translate(-50%, -50%);
+	background-color: #000000;
+	color: rgb(255, 255, 255);
+	font-family: 'Times New Roman';
+	font-size: 20px;
+	padding: 20px 20px;
+	border: rgb(100px, 10, 10);
+	cursor: pointer;
+	border-radius: 10px;
+	text-align: center;
+}
+}
+
+
+#p1{
+  width:350px;
+  height:290px;
+  border-radius: 10px;
+}
+
+#p2{
+  width:350px;
+  height:290px;
+  border-radius: 10px;
+}
+
+
+#p3{
+  width:350px;
+  height:290px;
+  border-radius: 10px;
+}
+
+.th{
+align-content: center;
+
+}
+
+.btn{
+opacity: 0.95;
+}
+
+table{
+  border:none;
+  width: 1500px;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  max-width: 600px;
+}
+
+.container img {
+  width: 100%;
+  height: auto;
+}
+
+.container .btn {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+  font-family: 'Times New Roman';
+  font-size: 20px;
+  padding: 20px 20px;
+  border: rgb(100px, 10, 10);
+  cursor: pointer;
+  border-radius: 10px;
+  text-align: center;
+}
+
+.container .btn:hover {
+  background-color: rgb(255, 255, 255);
+  color: rgb(2, 0, 0);
+}
